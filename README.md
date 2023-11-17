@@ -1,4 +1,3 @@
 # macos-battery
 
-Save batteryScript.scpt in ~/Applications/
-Save batteryAlert.plist in ~/Library/LaunchAgents/
+Save batteryScript.scpt in ~/Applications/ & batteryAlert.plist in ~/Library/LaunchAgents/
